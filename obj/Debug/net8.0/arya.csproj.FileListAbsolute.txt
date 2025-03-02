@@ -1,0 +1,15 @@
+C:\Users\Axioo Pongo\source\repos\arya\bin\Debug\net8.0\arya.exe
+C:\Users\Axioo Pongo\source\repos\arya\bin\Debug\net8.0\arya.deps.json
+C:\Users\Axioo Pongo\source\repos\arya\bin\Debug\net8.0\arya.runtimeconfig.json
+C:\Users\Axioo Pongo\source\repos\arya\bin\Debug\net8.0\arya.dll
+C:\Users\Axioo Pongo\source\repos\arya\bin\Debug\net8.0\arya.pdb
+C:\Users\Axioo Pongo\source\repos\arya\obj\Debug\net8.0\arya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axioo Pongo\source\repos\arya\obj\Debug\net8.0\arya.AssemblyInfoInputs.cache
+C:\Users\Axioo Pongo\source\repos\arya\obj\Debug\net8.0\arya.AssemblyInfo.cs
+C:\Users\Axioo Pongo\source\repos\arya\obj\Debug\net8.0\arya.csproj.CoreCompileInputs.cache
+C:\Users\Axioo Pongo\source\repos\arya\obj\Debug\net8.0\arya.dll
+C:\Users\Axioo Pongo\source\repos\arya\obj\Debug\net8.0\refint\arya.dll
+C:\Users\Axioo Pongo\source\repos\arya\obj\Debug\net8.0\arya.pdb
+C:\Users\Axioo Pongo\source\repos\arya\obj\Debug\net8.0\arya.genruntimeconfig.cache
+C:\Users\Axioo Pongo\source\repos\arya\obj\Debug\net8.0\ref\arya.dll
+C:\Users\Axioo Pongo\source\repos\arya\obj\Debug\net8.0\arya.sourcelink.json
